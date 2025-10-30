@@ -1,0 +1,20 @@
+{
+  "name": "finite-logic-ethos-guard",
+  "version": "1.0.0",
+  "description": "<b>Focus: AI/ML Governance &amp; Audit</b>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshayadeveloper/finite-logic-ethos-guard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-ethos-guard/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-ethos-guard#readme"
+}

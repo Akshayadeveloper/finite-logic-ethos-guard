@@ -1,17 +1,17 @@
 {
-  "name": "finite-logic-ethos-guard",
+  "name": "@finite-logic/ethos-guard",
   "version": "1.0.0",
-  "description": "<b>Focus: AI/ML Governance &amp; Audit</b>",
-  "main": "index.js",
+  "description": "Focus: AI/ML Governance &amp; Audit",
+  "main": "src/AuditLedger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshayadeveloper/finite-logic-ethos-guard.git"
+    "url": "https://github.com/Akshayadeveloper/finite-logic-ethos-guard.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["finite-logic","ethosguard","compaliance","AI/ML","Governance & Audit","Model Drift Validator"],
+  "author": "Akshaya Selvakumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Akshayadeveloper/finite-logic-ethos-guard/issues"
